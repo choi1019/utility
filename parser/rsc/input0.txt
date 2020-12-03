@@ -1,0 +1,21 @@
+videoManager1 {
+   att10 1
+   arrayA[] {
+	 33 44
+   }
+   videoProfile[]{ 
+	   {
+	     att40 4.5
+	     att50 insert1 x x
+	     att30 3
+	     a[] { 77 66}
+	   }
+ 	   {
+	     att40 5.5
+	     att50 insert2
+	     att30 4
+	     a[] { 88 99}
+	   }
+   }
+   att20 2
+}
